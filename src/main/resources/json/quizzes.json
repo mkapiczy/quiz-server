@@ -142,6 +142,104 @@
         "correctAnswerId": 2
       }
     ]
+  },
+  {
+    "id": 1,
+    "title": "Animals Quiz",
+    "questions": [
+      {
+        "id": 1,
+        "value": "What food makes up nearly all (around 99%) of a Giant Panda’s diet??",
+        "answers": [
+          {
+            "id": 1,
+            "value": "Bamboo"
+          },
+          {
+            "id": 2,
+            "value": "Tomato"
+          },
+          {
+            "id": 3,
+            "value": "Leaves"
+          },
+          {
+            "id": 4,
+            "value": "Flowers"
+          }
+        ],
+        "correctAnswerId": 1
+      },
+      {
+        "id": 2,
+        "value": "What is the largest type of ‘big cat’ in the world?",
+        "answers": [
+          {
+            "id": 1,
+            "value": "Lion"
+          },
+          {
+            "id": 2,
+            "value": "Tiger"
+          },
+          {
+            "id": 3,
+            "value": "Cheetah"
+          },
+          {
+            "id": 4,
+            "value": "Sphinx"
+          }
+        ],
+        "correctAnswerId": 2
+      },
+      {
+        "id": 3,
+        "value": "Bees are found on every continent of earth except for one, which is it?",
+        "answers": [
+          {
+            "id": 1,
+            "value": "Europe"
+          },
+          {
+            "id": 2,
+            "value": "Australia"
+          },
+          {
+            "id": 3,
+            "value": "Africa"
+          },
+          {
+            "id": 4,
+            "value": "Antarctica"
+          }
+        ],
+        "correctAnswerId": 4
+      },
+      {
+        "id": 4,
+        "value": "What is the tallest animal in the world?",
+        "answers": [
+          {
+            "id": 1,
+            "value": "Elephant"
+          },
+          {
+            "id": 2,
+            "value": "Giraffe"
+          },
+          {
+            "id": 3,
+            "value": "Mouse"
+          },
+          {
+            "id": 4,
+            "value": "Lion"
+          }
+        ],
+        "correctAnswerId": 2
+      }
+    ]
   }
 ]
 
